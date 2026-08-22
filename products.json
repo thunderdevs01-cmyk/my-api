@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "status": true,
-    "store": "example-store.myshopify.com",
-    "client": "John Doe"
+    "store": "example.myshopify.com",
+    "client": "John Doe",
+    "status": true
   },
   {
     "id": 2,
-    "status": true,
-    "store": "fitness-store.myshopify.com",
-    "client": "Michael"
+    "store": "another-store.myshopify.com",
+    "client": "Michael",
+    "status": false
   }
 ]
