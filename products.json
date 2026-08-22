@@ -1,13 +1,11 @@
 [
   {
     "id": 1,
-    "store": "https://deerhandmade.com",
-    "client": "John Doe",
+    "client": "John",
     "status": true
   },
   {
     "id": 2,
-    "store": "another-store.myshopify.com",
     "client": "Michael",
     "status": false
   }
