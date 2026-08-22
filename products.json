@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "store": "example.myshopify.com",
+    "store": "https://deerhandmade.com",
     "client": "John Doe",
     "status": true
   },
